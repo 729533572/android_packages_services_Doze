@@ -1,4 +1,4 @@
-ifeq ($(TARGET_DEVICE),kenzo)
+ifeq ($(TARGET_DEVICE),libra)
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
