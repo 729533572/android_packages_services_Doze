@@ -12,6 +12,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">Включено</string>
+
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">Выключено</string>
+
     <!-- Device specific settings -->
     <string name="device_settings_app_name">Дополнительные настройки</string>
 
@@ -31,8 +37,10 @@
     <string name="pocket_gesture_title">Карман</string>
     <string name="pocket_gesture_summary">Отображать уведомления при извлечении устройства из кармана</string>
 
+    <!-- Dialog texts -->
+    <string name="dialog_ok">OK</string>
+
     <!-- Help text -->
-    <string name="dlg_ok">OK</string>
     <string name="doze_settings_help_title">Информация</string>
     <string name="doze_settings_help_text">Эти функции используют события датчиков для отображения уведомлений. Датчик проверяется только при поступлении нового уведомления, что помогает сэкономить заряд батареи. Можно активировать включение датчика сразу при отключении экрана устройства, однако это может ускорить разряд батареи.</string>
 </resources>

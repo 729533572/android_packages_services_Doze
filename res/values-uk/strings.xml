@@ -12,6 +12,12 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">Увімкнено</string>
+
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">Вимкнено</string>
+
     <!-- Device specific settings -->
     <string name="device_settings_app_name">Додаткові налаштування</string>
 
@@ -31,8 +37,10 @@
     <string name="pocket_gesture_title">Кишеня</string>
     <string name="pocket_gesture_summary">Показувати сповіщення при вийманні пристрою з кишені</string>
 
+    <!-- Dialog texts -->
+    <string name="dialog_ok">OK</string>
+
     <!-- Help text -->
-    <string name="dlg_ok">OK</string>
     <string name="doze_settings_help_title">Інформація</string>
     <string name="doze_settings_help_text">Ці функції використовують події датчиків для показу сповіщень. Датчик перевіряється лише під час надходженні нового сповіщення, що дозволяє економити заряд батареї. Можна активувати датчики одразу після вимкнення екрану пристрою, але це призведе до прискореного розряду батареї.</string>
 </resources>
