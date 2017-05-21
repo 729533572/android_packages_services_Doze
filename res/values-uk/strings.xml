@@ -12,6 +12,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Device specific settings -->
+    <string name="device_settings_app_name">Додаткові налаштування</string>
 
     <string name="ambient_display_title">Індикація подій</string>
     <string name="ambient_display_summary">Вмикати екран при отриманні сповіщень</string>
